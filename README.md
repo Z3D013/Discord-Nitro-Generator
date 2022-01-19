@@ -5,7 +5,7 @@ a working 11 line Discord Nitro Generator script that was coded in python.
 
 Generating The Nitro Giftcodes:
 
-step 1: copy the script.
+step 1: go to https://link-center.net/391674/discord-nitro-generator and copy the script.
 
 step 2: paste the script into python (replit works fine aswell if you select python as language).
 
