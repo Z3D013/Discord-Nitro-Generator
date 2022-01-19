@@ -14,8 +14,10 @@ step 5: check the "output.txt" file that was made after you ran the script for t
 
 step 6: copy & paste the nitro giftcodes one by one into a discord server (recommended to make your own).
 
+
+
 Using The AFK Auto Typer:
-copy & pasting codes one by one might get boring so i coded an AFK Auto Typer in AutoHotKey.
+ copy & pasting codes one by one might get boring so i coded an AFK Auto Typer in AutoHotKey.
 
 step 1: install AutoHotKey from the official website: https://www.autohotkey.com/download/ 
 
@@ -31,5 +33,9 @@ step 5: change the "delay between lines (ms) to 0.000 on the left and 0.500 on t
 
 step 6: click on the typing bar in the discord app or website and hit start on the auto typer to make it start typing.
 
-if you don't understand after the explanation then watch this youtube video for explanation on the nitro generator & the auto typer:
+
+
+if you don't understand what to do then watch this youtube video for a clearer explanation on the nitro generator & the auto typer:
 explanation video: [WILL BE UPLOADED LATER TODAY]  
+
+any further questions can be commented under the comments of the youtube video or under a comment under this GitHub post.
