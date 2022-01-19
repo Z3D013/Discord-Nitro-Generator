@@ -16,6 +16,7 @@ step 2: download the script to my AFK Auto Typer from linkvertise: https://link-
 step 3: copy the nitro giftcodes generated in step 5 of "Generating The Nitro Giftcodes:"
 step 4: paste the generated nitro giftcodes into the Auto Typer as shown under this step:
 ![IMAGE](https://user-images.githubusercontent.com/96903540/150063089-f7f4d44e-7b87-4857-a380-f6fcb29146b2.PNG)
+
 step 5: change the "delay between lines (ms) to 0.000 on the left and 0.500 on the right as shown under this step:
 ![IMAGE](https://user-images.githubusercontent.com/96903540/150063387-c624585e-df60-4817-8c40-7aaf736563a1.PNG)
 step 6: click on the typing bar in the discord app or website and hit start on the auto typer to make it start typing.
