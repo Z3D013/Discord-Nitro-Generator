@@ -3,7 +3,6 @@ a working 11 line Discord Nitro Generator script coded in python.
 
 .
 
-.
 Generating The Nitro Giftcodes:
 
 step 1: copy the script.
@@ -22,9 +21,11 @@ step 6: copy & paste the nitro giftcodes one by one into a discord server (recom
 
 .
 
-.
 Using The AFK Auto Typer:
- copy & pasting codes one by one might get boring so i coded an AFK Auto Typer in AutoHotKey.
+
+copy & pasting codes one by one might get boring so i coded an AFK Auto Typer in AutoHotKey.
+
+.
 
 step 1: install AutoHotKey from the official website: https://www.autohotkey.com/download/ 
 
@@ -44,7 +45,6 @@ step 6: click on the typing bar in the discord app or website and hit start on t
 
 .
 
-.
 if you don't understand what to do then watch this youtube video for a clearer explanation on the nitro generator & the auto typer:
 explanation video: [WILL BE UPLOADED LATER TODAY]  
 
