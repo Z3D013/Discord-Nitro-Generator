@@ -33,7 +33,7 @@ step 2: download the AFK Auto Typer from linkvertise: https://link-center.net/39
 
 step 3: copy the nitro giftcodes generated in step 5 of "Generating The Nitro Giftcodes:"
 
-step 4: paste the generated nitro giftcodes into the Auto Typer you downloaded in step 2 of "Using The AFK Auto Typer:" as shown under this step:
+step 4: paste the generated nitro giftcodes into the Auto Typer as shown under this step:
 ![IMAGE](https://user-images.githubusercontent.com/96903540/150063089-f7f4d44e-7b87-4857-a380-f6fcb29146b2.PNG)
 
 step 5: change the "delay between lines (ms) to 0.000 on the left and 0.500 on the right as shown under this step:
