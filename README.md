@@ -29,7 +29,7 @@ copy & pasting codes one by one might get boring so i coded an AFK Auto Typer in
 
 step 1: install AutoHotKey from the official website: https://www.autohotkey.com/download/ 
 
-step 2: download the script to my AFK Auto Typer from linkvertise: https://link-center.net/391674/afk-auto-typer
+step 2: download the AFK Auto Typer from linkvertise: https://link-center.net/391674/afk-auto-typer
 
 step 3: copy the nitro giftcodes generated in step 5 of "Generating The Nitro Giftcodes:"
 
