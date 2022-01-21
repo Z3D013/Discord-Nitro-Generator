@@ -39,7 +39,7 @@ step 4: paste the generated nitro giftcodes into the Auto Typer as shown under t
 step 5: change the "delay between lines (ms) to 0.000 on the left and 0.500 on the right as shown under this step:
 ![IMAGE](https://user-images.githubusercontent.com/96903540/150063387-c624585e-df60-4817-8c40-7aaf736563a1.PNG)
 
-step 6: click on the typing bar in the discord server you made in step 6 app or website and hit start on the auto typer to make it start typing.
+step 6: click on the typing bar in the discord server you made in step 6 of "Generating The Nitro Giftcodes" (it doesn't matter if you do it in the app or on the website both work perfectly) and then hit start on the auto typer to make it start typing.
 
 .
 
