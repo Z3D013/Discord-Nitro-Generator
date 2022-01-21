@@ -3,7 +3,7 @@ a working 11 line Discord Nitro Generator script that was coded in python.
 
 .
 
-the video: https://www.youtube.com/watch?v=lOj5j5LTvWo
+the video for this nitro generator: https://www.youtube.com/watch?v=lOj5j5LTvWo
 
 .
 
@@ -52,7 +52,7 @@ step 6: click on the typing bar in the discord server you made in step 6 of "Gen
 .
 
 if you don't understand what to do then watch this youtube video for a clearer explanation on the nitro generator & the auto typer:
-explanation video: [WILL BE UPLOADED LATER TODAY]  
+explanation video: https://www.youtube.com/watch?v=lOj5j5LTvWo 
 
 .
 
