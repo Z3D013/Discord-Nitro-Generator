@@ -1,6 +1,9 @@
 # Discord-Nitro-Generator
 a working 11 line Discord Nitro Generator script that was coded in python.
+.
+the video: https://www.youtube.com/watch?v=lOj5j5LTvWo
 
+.
 .
 
 Generating The Nitro Giftcodes:
