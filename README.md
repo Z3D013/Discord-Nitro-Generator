@@ -13,7 +13,7 @@ Generating The Nitro Giftcodes:
 
 step 1: go to https://direct-link.net/391674/discord-nitro-gen-script and copy the script.
 
-step 2: paste the script into python (replit.com works fine aswell if you select python as language).
+step 2: paste the script into python (going to https://replit.com works fine aswell if you select python as language).
 
 step 3: edit the number in line 5 of the script that is in brackets to whatever amount of nitro giftcodes you want to generate.
 
